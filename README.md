@@ -13,12 +13,40 @@ My name is Martyna and I'm beginner Software Developer.
 
 - 📫 How to reach me:
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-[Profile](https://www.linkedin.com/in/martyna-znajdek-a63084137/)
-
+[LinkedIn](https://www.linkedin.com/in/martyna-znajdek-a63084137/)
 
 
 - ⚡ Fun fact: I'm passionate about sport, walking in the woods and fermentation proccess ( I could ferment everything - even tea!-)
 
 
 
+🔧 Tools & Technologies:
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5680c5)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=5680c5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5680c5)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=5680c5)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=5680c5)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=5680c5)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqllite&logoColor=white&color=5680c5)
+
+
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/CodingBee77">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingBee77&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/CodingBee77">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingBee77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martyna's GitHub Stats" />
+</a>
+
+<a href="https://github.com/CodingBee77/Data_Science_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Data_Science_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/CodingBee77/Snake-bug-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Snake-bug-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
