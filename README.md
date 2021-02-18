@@ -5,11 +5,15 @@
 
 My name is Martyna and I'm beginner Python developer and data science&machine learning hobbyist.
 
+<br />
+
 - 🔭 I’m currently working on financial project for predicting the behaviour of companies on the stock exchange.
 
 - 🌱 I’m currently learning data structures, neural networks and machine learning algorithms.
 
 - 👯 I’m looking to collaborate on interesting project which uses python, ml algorithms and data science.
+
+<br />
 
 - 📫 How to reach me:
 
@@ -19,19 +23,41 @@ My name is Martyna and I'm beginner Python developer and data science&machine le
 - ⚡ Fun fact: I'm passionate about sport, walking in the woods and fermentation proccess ( I could ferment everything - even tea!-)
 
 
-
+<br />
 🔧 Tools & Technologies:
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5680c5)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=5680c5)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5680c5)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=5680c5)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=5680c5)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=5680c5)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqllite&logoColor=white&color=5680c5)
+<br />
 
 
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+
+<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
+
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+
+
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
+
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+
+<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<br />
 
 ## &#x1f4c8; GitHub Stats
 
