@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm beginner Software Developer.
+My name is Martyna and I'm beginner Python developer and data science&machine learning hobbyist.
 
 - 🔭 I’m currently working on financial project for predicting the behaviour of companies on the stock exchange.
 
