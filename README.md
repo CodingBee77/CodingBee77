@@ -17,7 +17,8 @@ My name is Martyna and I'm beginner Python developer and data science&machine le
 
 - 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/martyna-znajdek-a63084137/)
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/martyna-znajdek-a63084137/)
 
 
 - ⚡ Fun fact: I'm passionate about sport, walking in the woods and fermentation proccess ( I could ferment everything - even tea!-)
