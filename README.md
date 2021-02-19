@@ -3,15 +3,15 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm beginner Python developer and aspiring data scientist.
+My name is Martyna and I'm a beginner Python developer and aspiring data scientist.
 
 <br />
 
-- 🔭 I’m currently working on financial project for predicting the behaviour of companies on the stock exchange.
+- 🔭 I’m currently working on a financial project for predicting the behavior of companies on the stock exchange.
 
-- 🌱 I’m currently learning data structures, neural networks and machine learning algorithms.
+- 🌱 I’m currently learning data structures, neural networks, and machine learning algorithms.
 
-- 👯 I’m looking to collaborate on interesting project which uses python, ml algorithms and data science.
+- 👯 I’m looking to collaborate on an interesting project which uses python, ml algorithms, and data science.
 
 <br />
 
@@ -21,7 +21,8 @@ My name is Martyna and I'm beginner Python developer and aspiring data scientist
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/martyna-znajdek-a63084137/)
 
 
-- ⚡ Fun fact: I'm passionate about sport, walking in the woods and fermentation proccess ( I could ferment everything - even tea!-)
+- ⚡ Fun fact: I'm passionate about sport, walking in the woods, and the fermentation proccess ( I could ferment everything - even tea!-)
+
 
 
 <br />
