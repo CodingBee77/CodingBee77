@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm a beginner Python developer and aspiring data scientist.
+My name is Martyna and I'm a Junior Python developer with passion to data analytics and machine learning.
 
 <br />
 
