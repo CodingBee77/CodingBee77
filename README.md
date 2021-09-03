@@ -79,6 +79,21 @@ My name is Martyna and I'm a Junior Software developer with passion to data anal
 <br />
 <br />
 
+
+<a href="https://github.com/CodingBee77/FastAPI_docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=FastAPI_docker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<br />
+<br />
+
+<a href="https://github.com/CodingBee77/Complete_web_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Complete_web_app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<br />
+<br />
+
 <a href="https://github.com/CodingBee77/Data_Science_Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Data_Science_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
@@ -93,6 +108,6 @@ My name is Martyna and I'm a Junior Software developer with passion to data anal
 <br />
 <br />
 
-<a href="https://github.com/CodingBee77/Snake-bug-game">
+<a href="https://github.com/CodingBee77/ML-algorithms-from-scratch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=ML-algorithms-from-scratch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
