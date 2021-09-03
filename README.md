@@ -3,15 +3,15 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm a Junior Python developer with passion to data analytics and machine learning.
+My name is Martyna and I'm a Junior Software developer with passion to data analytics and machine learning.
 
 <br />
 
-- 🔭 I’m currently working on a financial project for predicting the behavior of companies on the stock exchange.
+- 🔭 I’m currently working on a Weather App project for analyzing weather and air conditions in order to schedule outdoor workouts.
 
-- 🌱 I’m currently learning data structures, neural networks, and machine learning algorithms.
+- 🌱 I’m currently learning data structures and algorithms, PostgreSQL and cloud technologies.
 
-- 👯 I’m looking to collaborate on an interesting project which uses python, ml algorithms, and data science.
+- 👯 I’m looking to collaborate on an interesting project in with following tech stack: Python, FastAPI, SQLAlchemy, Cloud, Data Analytics, Machine learning.
 
 <br />
 
