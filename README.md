@@ -101,8 +101,8 @@ My name is Martyna and I'm a Junior Software developer with passion to data anal
 <br />
 <br />
 
-<a href="https://github.com/CodingBee77/Snake-bug-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Snake-bug-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/CodingBee77/SQLAlchemy_workbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=SQLAlchemy_workbook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <br />
