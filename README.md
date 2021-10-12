@@ -87,9 +87,16 @@ My name is Martyna and I'm a Junior Software developer with passion to data anal
 <br />
 <br />
 
-<a href="https://github.com/CodingBee77/Complete_web_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Complete_web_app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/CodingBee77/Air_quality_app_v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Air_quality_app_v2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<br />
+<br />
+
+<a href="https://github.com/CodingBee77/Dependency-injection-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Dependency-injection-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
 <br />
 <br />
