@@ -115,6 +115,6 @@ My name is Martyna and I'm a Junior Software developer with passion to data anal
 <br />
 <br />
 
-<a href="https://github.com/CodingBee77/ML-algorithms-from-scratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=ML-algorithms-from-scratch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/CodingBee77/Movie-watchlist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Movie-watchlist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
