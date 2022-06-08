@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm a Junior Software developer with passion to data analytics and machine learning.
+My name is Martyna and I'm a Software developer with passion to data analytics and big data.
 
 <br />
 
