@@ -7,7 +7,7 @@ My name is Martyna and I'm a Software developer with passion to data analytics a
 
 <br />
 
-- 🔭 I’m currently working on a Weather App project for analyzing weather and air conditions in order to schedule outdoor workouts.
+- 🔭 I’m currently learning Apache Airflow and basics of building data pipelines.
 
 - 🌱 I’m currently learning data structures and algorithms, PostgreSQL and cloud technologies.
 
