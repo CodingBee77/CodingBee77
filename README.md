@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm a Software developer with passion to data analytics and big data.
+My name is Martyna and I'm a Software developer with passion to the backend and testing.
 
 <br />
 
@@ -36,9 +36,6 @@ My name is Martyna and I'm a Software developer with passion to data analytics a
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
 
-<img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-
-
 <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 
@@ -56,8 +53,6 @@ My name is Martyna and I'm a Software developer with passion to data analytics a
 
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
-
-<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 
 
 <br />
