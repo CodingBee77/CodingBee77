@@ -1,5 +1,3 @@
-[![Header](https://github.com/CodingBee77/CodingBee77/blob/main/Martyna%20Znajdek.png "Header")](https://some-url.dev/)
-
 
 ### Hi there 👋
 
