@@ -5,9 +5,9 @@ My name is Martyna and I'm a Software developer with passion to the backend and 
 
 <br />
 
-- 🔭 I’m currently learning Apache Airflow and basics of building data pipelines.
+- 🔭 I’m currently learning Automated Testing with Playwright and prepare for ISTQB certification.
 
-- 🌱 I’m currently learning data structures and algorithms, PostgreSQL and cloud technologies.
+- 🌱 I’m currently working on Currency Converter App and couple of other small projects that integrate new tools into focuses on code optimization and high quality testing.
 
 - 👯 I’m looking to collaborate on an interesting project in with following tech stack: Python, FastAPI, SQLAlchemy, Cloud, Data Analytics, Machine learning.
 
@@ -59,49 +59,4 @@ My name is Martyna and I'm a Software developer with passion to the backend and 
 ## &#x1f4c8; GitHub Stats
 
 
-<a href="https://github.com/CodingBee77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingBee77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martyna's GitHub Stats" />
-</a>
-
-<br />
-<br />
-
-
-<a href="https://github.com/CodingBee77/FastAPI_docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=FastAPI_docker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<br />
-<br />
-
-<a href="https://github.com/CodingBee77/Air_quality_app_v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Air_quality_app_v2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<br />
-<br />
-
-<a href="https://github.com/CodingBee77/Dependency-injection-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Dependency-injection-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
-<br />
-<br />
-
-<a href="https://github.com/CodingBee77/Data_Science_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Data_Science_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<br />
-<br />
-
-<a href="https://github.com/CodingBee77/SQLAlchemy_workbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=SQLAlchemy_workbook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<br />
-<br />
-
-<a href="https://github.com/CodingBee77/Movie-watchlist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodingBee77&repo=Movie-watchlist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+![](https://raw.githubusercontent.com/username=CodingBee77/github-stats/master/generated/overview.svg#gh-dark-mode-only)
