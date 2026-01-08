@@ -58,5 +58,4 @@ My name is Martyna and I'm a Software developer with passion to the backend and 
 
 ## &#x1f4c8; GitHub Stats
 
-
-![](https://raw.githubusercontent.com/username=CodingBee77/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+# TODO
