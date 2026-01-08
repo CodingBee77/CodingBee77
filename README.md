@@ -25,7 +25,7 @@ My name is Martyna and I'm a Software developer with passion to the backend and 
 
 <br />
 🔧 Tools & Technologies:
-
+<br />
 <br />
 
 
