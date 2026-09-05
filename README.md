@@ -1,11 +1,13 @@
 
 ### Hi there 👋
 
-My name is Martyna and I'm a Software developer with passion to the backend and testing.
+My name is Martyna and I'm a Software Developer with passion to the backend and testing.
 
 <br />
 
-- 🔭 I’m currently learning Automated Testing with Playwright and prepare for ISTQB certification.
+- 🔭 I’m currently learning Automated Testing with Playwright and DBT.
+- 
+- 🥇 ISTQB certification.
 
 - 🌱 I’m currently working on Currency Converter App and couple of other small projects that integrate new tools into focuses on code optimization and high quality testing.
 
